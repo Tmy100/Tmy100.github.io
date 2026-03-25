@@ -1,4 +1,4 @@
-# About me
+# Tmy100's github.io
 My name is Ming Yi. 
 I am an IBI1 student at the Zhejiang University - University of Edinburgh (ZJE) Institute.
 If you like to eat sushi, we can befriend !
